@@ -1,5 +1,7 @@
 # Nggallery
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/newcoder171/Angular4ImageGallery.svg)](https://greenkeeper.io/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
 ## Development server
